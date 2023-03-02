@@ -12506,19 +12506,19 @@ width: 320px;
 }
 
 .card-cm-bg-proj1{
-  background-image: url(assets/img/projects/project1.JPG);
+  background-image: url(../assets/img/projects/project1.JPG);
 }
 
 .card-cm-bg-proj2{
-  background-image: url(assets/img/projects/project2.JPG);
+  background-image: url(../assets/img/projects/project2.JPG);
 }
 
 .card-cm-bg-proj3{
-  background-image: url(assets/img/projects/project3.JPG);
+  background-image: url(../assets/img/projects/project3.JPG);
 }
 
 .card-cm-bg-proj4{
-  background-image: url(assets/img/projects/project4.JPG);
+  background-image: url(../assets/img/projects/project4.JPG);
 }
 
 .card-cm-h1{
